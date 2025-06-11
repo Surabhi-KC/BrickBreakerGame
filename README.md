@@ -19,5 +19,5 @@ python BrickBreaker.py
 ```
 
 ## References
-**Main Menu UI**: [Python Game Menu Implementation]https://www.youtube.com/watch?v=GMBqjxcKogA&list=WL&index=4
-**Gameplay**: [Brick Breaker Game using Pygame]https://www.youtube.com/watch?v=qg1_kRMwmr8
+ - **Main Menu UI**: [Python Game Menu Implementation](https://www.youtube.com/watch?v=GMBqjxcKogA&list=WL&index=4)
+ - **Gameplay**: [Brick Breaker Game using Pygame](https://www.youtube.com/watch?v=qg1_kRMwmr8)
